@@ -16,11 +16,11 @@ Setup Narration Project
 
 Useful Links
 
-Amazon Polly Examples for Java 2.x: https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/java_polly_code_examples.html
-
-Setting up Amazon Polly: https://docs.aws.amazon.com/polly/latest/dg/prerequisites.html
-
-Authentication: https://docs.aws.amazon.com/cli/v1/userguide/cli-authentication-short-term.html
+    Amazon Polly Examples for Java 2.x: https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/java_polly_code_examples.html
+    
+    Setting up Amazon Polly: https://docs.aws.amazon.com/polly/latest/dg/prerequisites.html
+    
+    Authentication: https://docs.aws.amazon.com/cli/v1/userguide/cli-authentication-short-term.html
 
 
 Submit

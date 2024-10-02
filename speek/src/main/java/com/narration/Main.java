@@ -1,4 +1,4 @@
-package com.narriation;
+package com.narration;
 
 public class Main {
     public static void main(String[] args){
